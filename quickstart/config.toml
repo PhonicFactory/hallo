@@ -1,3 +1,5 @@
+publishDir = "docs"
+
 baseURL = "http://phonicfactory.github.io/hallo"
 languageCode = "en-us"
 title = "The Phonic Factory - We Create Conversations"
