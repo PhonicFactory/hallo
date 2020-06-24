@@ -1,0 +1,17 @@
+baseURL = "http://phonicfactory.com/"
+languageCode = "en-us"
+title = "The Phonic Factory - We Create Conversations"
+theme = "hallo"
+
+[Author]
+    name = "Phonic Factory"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/PhonicFactory"
+    [[params.links]]
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:brad@phonicfactory.com"
